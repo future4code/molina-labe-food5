@@ -10,9 +10,9 @@ Nome dos integrantes:
 
 
 
-                                      Para rodar na máquina 💻:
-                                            npm install 📌
-                                            npm start 📌
+                                                    Para rodar na máquina 💻:
+                                                          npm install 📌
+                                                          npm start 📌
 
 
 Link do Surge:
