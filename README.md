@@ -19,4 +19,4 @@ Link do Surge:
 
 O que funciona:
 
-Imgens do Projeto:
+Imagens do Projeto:
