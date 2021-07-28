@@ -1,4 +1,4 @@
-# futureEatsA
+# futureEats
 
 Nome dos integrantes: 
 - Pessoa 1 Carlos Alberto Dutra Azeredo
@@ -10,9 +10,9 @@ Nome dos integrantes:
 
 
 
-                                                    Para rodar na máquina 💻:
-                                                          npm install 📌
-                                                          npm start 📌
+                                                Para rodar na máquina 💻:
+                                                     npm install 📌
+                                                      npm start 📌
 
 
 Link do Surge:
