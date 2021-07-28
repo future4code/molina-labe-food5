@@ -1,4 +1,4 @@
-# futureEats
+# FutureEats
 
 Nome dos integrantes: 
 - Pessoa 1 Carlos Alberto Dutra Azeredo
