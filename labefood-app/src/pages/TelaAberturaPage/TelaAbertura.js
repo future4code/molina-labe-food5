@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Carrinho () {
+export default function TelaAbertura () {
     return (
       <div>
-          Carrinho
+          Tela Abertura
       </div>
     );
 }
