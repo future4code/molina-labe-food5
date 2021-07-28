@@ -8,3 +8,9 @@ export const SplashScreenContainer = styled.main`
   align-items: center;
   justify-content: center;
 `
+export const LoadingContainer = styled.div`
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+`

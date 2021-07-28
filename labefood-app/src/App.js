@@ -12,12 +12,6 @@ import { LogoEatsImg , GarfinhoLogoImg } from './styled'
 export default function App () {
   return (
     <BrowserRouter>
-{/*       <GarfinhoLogoImg>
-      <img src={GarfinhEats} />
-      </GarfinhoLogoImg>
-      <LogoEatsImg>
-      <img src={LogoEats} />
-      </LogoEatsImg> */}
       <Router />
     </BrowserRouter>
   );
