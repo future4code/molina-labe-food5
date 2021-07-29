@@ -1,7 +1,6 @@
 import styled from "styled-components";
 
 export const SplashScreenContainer = styled.main`
-  background-color: black;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -10,6 +9,6 @@ export const SplashScreenContainer = styled.main`
 
 
   img{
-    width: 35%;
+    width: 150px;
   }
 `

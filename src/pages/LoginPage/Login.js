@@ -46,53 +46,53 @@ export default function Login () {
   }
   return (
     <div>
-         {loading ? <TelaAbertura/> : 
-         <LoginPage>
-            <img src={logoeats}/>
-            <LoginForm onSubmit={onSubtmitLogin}>
-                    <p>Entrar</p>
-                    <TextField
-                        name={"email"}
-                        value={form.email}
-                        onChange={onChange}
-                        label={"E-mail"}
-                        fullWidth
-                        margin={"normal"}
-                        variant={"outlined"}
-                        type={"email"}
-                        placeholder={"email@email.com"}
-                        required
-                    />
-                    <TextField
-                        name={"password"}
-                        value={form.password}
-                        onChange={onChange}
-                        label={"Senha"}
-                        variant={"outlined"}
-                        margin={"normal"}
-                        type={"password"}
-                        required
-                        fullWidth
-                        placeholder={"mínimo 6 caracteres"}
-                    />
-            <Button
-              type={"submit"}
-              fullWidth
-              variant={"contained"}
-              color={"primary"}
-            >
-              Entrar
-            </Button>
-            </LoginForm>
-            <Button
-              type={"submit"}
-              fullWidth
-              variant={"text"}
-              onClick={()=> goToSingnUp(history)}
-            >
-                  Não possui cadastro? Clique Aqui!
-                </Button>
-                </LoginPage>}
-        </div>
-    );
-}
+      {loading ? <TelaAbertura/> : 
+      <LoginPage>
+        <img src={logoeats}/>
+        <LoginForm onSubmit={onSubtmitLogin}>
+          <p>Entrar</p>
+          <TextField
+            name={"email"}
+            value={form.email}
+            onChange={onChange}
+            label={"E-mail"}
+            fullWidth
+            margin={"normal"}
+            variant={"outlined"}
+            type={"email"}
+            placeholder={"email@email.com"}
+            required
+          />
+          <TextField
+            name={"password"}
+            value={form.password}
+            onChange={onChange}
+            label={"Senha"}
+            variant={"outlined"}
+            margin={"normal"}
+            type={"password"}
+            required
+            fullWidth
+            placeholder={"mínimo 6 caracteres"}
+          />
+          <Button
+            type={"submit"}
+            fullWidth
+            variant={"contained"}
+            color={"primary"}
+          >
+            Entrar
+          </Button>
+        </LoginForm>
+        <Button
+          type={"submit"}
+          fullWidth
+          variant={"text"}
+          onClick={() => goToSignUp(history)}
+        >
+          Não possui cadastro? Clique Aqui!
+        </Button>
+      </LoginPage>}
+    </div>
+  );
+} 
