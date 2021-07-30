@@ -88,7 +88,7 @@ export default function Login () {
           type={"submit"}
           fullWidth
           variant={"text"}
-          onClick={() => goToSignUp(history)}
+          onClick={() => goToSingnUp(history)}
         >
           Não possui cadastro? Clique Aqui!
         </Button>
