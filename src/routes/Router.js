@@ -8,7 +8,7 @@ import HomePage from '../pages/HomePage/Home'
 import CartPage from '../pages/CarrinhoPage/Carrinho'
 import RestaurantDetails from '../pages/DetalheRestPage/Restaurante'
 import Profile from '../pages/PefilPage/Perfil'
-import AdressPage from '../pages/EnderecoPage/Endereco'
+import AdressPage from '../pages/EnderecoPage/AdressPage'
 import ErrorPage from '../pages/ErrorPage/Error'
 
 export default function Router() {

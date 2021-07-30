@@ -22,7 +22,7 @@ export const goToRestaurantDetails = (history , id) => {
     history.push(`/restaurante/${id}`)
 }
 
-export const goToAndressPage = (history) => {
+export const goToAdressPage = (history) => {
     history.push('/cadastro/endereco')
 }
 
