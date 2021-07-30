@@ -1,5 +1,5 @@
 import React from 'react'
-import { Switch, Route } from 'react-router-dom'
+import { BrowserRouter, Switch, Route } from 'react-router-dom'
 /*Page*/
 import SplashScreen from '../pages/TelaAberturaPage/TelaAbertura'
 import LoginPage from '../pages/LoginPage/Login'
@@ -13,34 +13,36 @@ import ErrorPage from '../pages/ErrorPage/Error'
 
 export default function Router() {
     return(
-        <Switch>
-            <Route exact path={'/'}>
-                <SplashScreen />
-            </Route>
-            <Route exact path={'/entrar'}>
-                <LoginPage />
-            </Route>
-            <Route exact path={'/cadastro'}>
-                <SingUp />
-            </Route>
-            <Route exact path={'/cadastro/endereco'}>
-                <AdressPage/>
-            </Route>
-            <Route exact path={'/home'}>
-                <HomePage />
-            </Route>
-            <Route exact path={'/restaurante/:id'}>
-                <RestaurantDetails />
-            </Route>
-            <Route exact path={'/carrinho'}>
-                <CartPage />
-            </Route>
-            <Route exact path={'/perfil'}>
-                <Profile />
-            </Route>
-            <Route>
-                <ErrorPage />
-            </Route>
-        </Switch>
+        <BrowserRouter>
+            <Switch>
+                <Route exact path={'/'}>
+                    <SplashScreen />
+                </Route>
+                <Route exact path={'/entrar'}>
+                    <LoginPage />
+                </Route>
+                <Route exact path={'/cadastro'}>
+                    <SingUp />
+                </Route>
+                <Route exact path={'/cadastro/endereco'}>
+                    <AdressPage />
+                </Route>
+                <Route exact path={'/home'}>
+                    <HomePage />
+                </Route>
+                <Route exact path={'/restaurante/:id'}>
+                    <RestaurantDetails />
+                </Route>
+                <Route exact path={'/carrinho'}>
+                    <CartPage />
+                </Route>
+                <Route exact path={'/perfil'}>
+                    <Profile />
+                </Route>
+                <Route>
+                    <ErrorPage />
+                </Route>
+            </Switch>
+        </BrowserRouter>
     )
 }

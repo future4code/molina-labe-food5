@@ -1,13 +1,27 @@
-import React from 'react';
-import logoeats from "../../assets/logotelaabertura.png"
-import { SplashScreenContainer } from './styled';
-import Loading from "../../components/Loading/Loading"
+import React, {useEffect} from 'react';
+import {useHistory} from 'react-router-dom';
+/*Componentes*/
+import HomeInitial from '../HomePage/HomeInitial'
+/*Cordenador de rotas */
+import {goToHome , goToLogin } from '../../routes/coordinator';
+
+
 
 export default function TelaAbertura () {
-    return (
-      <SplashScreenContainer>
-        <img src={logoeats}/> 
-        <Loading/> 
-      </SplashScreenContainer>
-    );
+  document.title = "Labe Eats"
+  const history = useHistory();
+  useEffect(() => {
+    const token = localStorage.getItem("token")
+    setTimeout(() => {
+      if (token === null) {
+        goToLogin(history)
+      } else {
+          goToHome(history)
+        }
+    }, 1000)
+  }, [])
+
+  return (
+    <HomeInitial />
+  )
 }

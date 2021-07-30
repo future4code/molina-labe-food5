@@ -10,13 +10,13 @@ export const LoginPage = styled.div`
   min-height: 100vh;
 
   img{
-    width: 35%;
-    margin-top: 30%;
+    width: 20%;
+    margin-top: 0%;
   }
 `
 
 export const LoginForm = styled.form`
-    margin-top: 9%;
+    margin-top: 0%;
     width: 90%;
     height: 100%;
     display: flex;

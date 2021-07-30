@@ -1,3 +1,7 @@
+export const goToLoading = (history) => {
+    history.push('/')
+}
+
 export const goToLogin = (history) => {
     history.push('/entrar')
 }
