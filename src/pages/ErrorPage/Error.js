@@ -1,9 +1,9 @@
-import React from 'react'
+import React from 'react';
 
-export default function Error () {
-    return (
-      <div>
-          Error
-      </div>
-    );
+export default function ErrorPage() {
+  window.document.title="FutureEats"
+
+  return (
+    <div>Error Page!!</div>
+  );
 }

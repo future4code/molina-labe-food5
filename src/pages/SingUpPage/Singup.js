@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-import React from 'react'
-
-export default function SingUp () {
-    return (
-      <div>
-          Cadastro
-      </div>
-    );
-}
-=======
 import React, { useEffect } from 'react'
 import { ScreenContainer, LogoImage, H1} from './styled'
 import logo from '../../assets/logoeats.png'
@@ -34,4 +23,3 @@ const Signup = () => {
 }
 
 export default Signup
->>>>>>> master

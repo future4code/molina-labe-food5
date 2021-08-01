@@ -1,9 +1,9 @@
-import React, { useEffect, useState } from "react";
+/* import React, { useEffect, useState } from "react";
 import { placeOrder } from "../../components/requests/user";
 import { useCartCtx } from "../../Contexts/cartCtx";
 import { getFullAddress } from "../../components/requests/user";
 
-/* DESIGN */
+/* DESIGN 
 import {
   FormControl,
   FormControlLabel,
@@ -74,7 +74,7 @@ const CartPage = () => {
 
       <p>Carrinho vazio</p>
 
-      {/* container teste para receber os produtos */}
+      {/* container teste para receber os produtos }
       {products &&
         products.map((pdt) => {
           return (
@@ -122,3 +122,4 @@ const CartPage = () => {
 };
 
 export default CartPage;
+ */

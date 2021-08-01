@@ -1,42 +1,36 @@
-import React from 'react';
-import { Route, useHistory } from 'react-router-dom';
+import React from "react";
+import { Route, useHistory } from "react-router-dom";
 
 /*Material UI*/
-import ArrowBackIosIcon from '@material-ui/icons/ArrowBackIos';
+import ArrowBackIosIcon from "@material-ui/icons/ArrowBackIos";
 
 /*Cordenador de rota*/
-import { goBack } from '../../routes/coordinator';
-/* styled */
-import {HeaderContainer, Bar, Title } from './styled'
+import { goBack } from "../../router/coordinator";
+
 
 export default function Header() {
-     const history = useHistory()
+  const history = useHistory();
 
      return (
           <HeaderContainer>
-               <Bar>
-                    <Route exact path={['/cadastro', '/restaurante/:id', '/cadastro/endereco', '/carrinho']}>
+                    <Bar>
                          <ArrowBackIosIcon size={24} onClick={() => goBack(history)} />
-                    </Route>
-               </Bar>
-               <Bar>
-                    <Route exact path={['/entrar', 'cadastrar', '/cadastro/endereco']}>
+                    </Bar>
+                    <Bar>
                          <Title></Title>
-                    </Route>
-                    <Route exact path={'/home'}>
+                    <Route exact path={"/home"}>
                          <Title>FutureEats</Title>
                     </Route>
-                    <Route exact path={'/restaurante/:id'}>
+                    <Route exact path={"/restaurante/:id"}>
                          <Title>Restaurante</Title>
                     </Route>
-                    <Route exact path={'/carrinho'}>
+                    <Route exact path={"/carrinho"}>
                          <Title>Carrinho</Title>
                     </Route>
-                    <Route exact path={'/perfil'}>
+                    <Route exact path={"/perfil"}>
                          <Title>Perfil</Title>
                     </Route>
-               </Bar>
+                    </Bar>
           </HeaderContainer>
-
      );
 }
