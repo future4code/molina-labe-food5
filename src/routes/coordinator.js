@@ -1,36 +1,28 @@
-export const goToLoading = (history) => {
-    history.push('/')
-}
-
 export const goToLogin = (history) => {
-    history.push('/entrar')
+  history.push('/entrar')
 }
-
-export const goToSingnUp = (history) => {
-    history.push('/cadastro')
+export const goToSignUp = (history) => {
+  history.push('/cadastro')
 }
-
 export const goToHome = (history) => {
-    history.push('/home')
+  history.push('/home')
 }
-
 export const goToProfile = (history) => {
-    history.push('/perfil')
+  history.push('/perfil')
 }
 
-export const goToRestaurantDetails = (history , id) => {
-    history.push(`/restaurante/${id}`)
+export const goToRestaurantsDetails = (history, id) => {
+  history.push(`/restaurante/${id}`)
 }
 
 export const goToAdressPage = (history) => {
-    history.push('/cadastro/endereco')
+  history.push('/cadastro/endereco')
 }
 
 export const goToCart = (history) => {
-    history.push('/carrinho')
+  history.push('/carrinho')
 }
 
 export const goBack = (history) => {
-    history.goBack()
+  history.goBack()
 }
-
