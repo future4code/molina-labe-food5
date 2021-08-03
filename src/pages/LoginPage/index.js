@@ -73,7 +73,6 @@ export default function LoginPage() {
         </FormControl>
       <ButtonStyled>Entrar</ButtonStyled>
       </FormContainer>
-      
       <Button onClick={() => {goToSignUp(history)}} style={{margin:'8px 0'}}>Não possui cadastro? Clique aqui.</Button>
     </Wrapper>
   )

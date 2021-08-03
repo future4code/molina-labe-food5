@@ -1,13 +1,14 @@
 import styled from "styled-components"
 
 export const Wrapper = styled.div`  
-  //width: 100vw;
-  //max-width: 420px;
+  width: 100vw;
+  max-width: 420px;
+  height: 92vh; 
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin-top: 32px;
+  border: solid 1px #b8b8b8;
 `      
 
 export const ImageLogo = styled.img`
@@ -31,7 +32,7 @@ export const Register = styled.p`
 export const FormContainer = styled.form`   
   display:flex;
   flex-direction: column;
-  width: 90vw;
+  width: 30vw;
 `     
 
 export const ButtonStyled = styled.button` 
