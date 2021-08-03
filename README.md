@@ -30,7 +30,7 @@ $ npm -v
 
 Para configurar, no bash digite os seguinte códigos:
 # Clonar o repositório
-$ git clone https://github.com/future4code/dumont-labe-food8.git
+$ git clone https://github.com/future4code/molina-labe-food5.git
 
 #Entrar no diretório
 $ cd dumont-labe-food
@@ -50,11 +50,11 @@ Agora é só testar em seu navegador!
 --------------------------------------------------------------------------
 
 Desenvolvido por:
-                                          Carlos Alberto Dutra Azeredo
-                                          David Ortiz dos Santos
-                                          Jaqueline Lourenço
-                                          Pablo Loredo
-                                          Samira Amorim Pereira
-                                          Sidney Souza
+                                          -Carlos Alberto Dutra Azeredo,
+                                          -David Ortiz dos Santos,
+                                          -Jaqueline Lourenço,
+                                          -Pablo Loredo,
+                                          -Samira Amorim Pereira,
+                                          -Sidney Souza .
 -------------------------------------------------------------------------------------------------------
 
