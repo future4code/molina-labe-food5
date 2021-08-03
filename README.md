@@ -9,6 +9,8 @@ https://documenter.getpostman.com/view/7549981/SWTEdGtT#3203689e-ea05-466a-8a5a-
 --------------------------------------------------------------------
 Inagens do Projeto:
 ![image](https://user-images.githubusercontent.com/83045484/127949941-81c80c77-0408-4d15-81ca-d77293f30d0f.png)
+![image](https://user-images.githubusercontent.com/83045484/127954387-602a343f-f8a9-497a-ab45-0a3f9d36d36c.png)
+![image](https://user-images.githubusercontent.com/83045484/127954403-e916b651-6357-45d3-8109-0fb88ef0db17.png)
 ![image](https://user-images.githubusercontent.com/83045484/127950004-029000fe-8bf5-44fd-a190-b93d9c10877b.png)
 ![image](https://user-images.githubusercontent.com/83045484/127950122-70ca7ee3-3438-421e-8535-d5abf2cfa01d.png)
 ![image](https://user-images.githubusercontent.com/83045484/127949808-7ca7d14a-0c89-4e08-9fed-e80a2b0429da.png)
@@ -23,14 +25,15 @@ https://molina-food5la.surge.sh
 login: adm@gmail.com
 senha: 123456
 -------------------------------------------------------------------
-💻 Tecnologias utilizadas
-ReactJS
-API: https://documenter.getpostman.com/view/7549981/SWTEdGtT#3203689e-ea05-466a-8a5a-8ebc6c5f271e
-Material-UI
-Styled-components
-Axios
-React-dom-router
-Context
+💻 Tecnologias utilizadas:
+
+-ReactJS
+-API: https://documenter.getpostman.com/view/7549981/SWTEdGtT#3203689e-ea05-466a-8a5a-8ebc6c5f271e
+-Material-UI
+-Styled-components
+-Axios
+-React-dom-router
+-Context
 ------------------------------------------------------------------
 Como baixar/testar o projeto
 Você irá precisar instalar o Git, NodeJS + Visual Studio code.
