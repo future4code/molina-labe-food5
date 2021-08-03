@@ -21,12 +21,17 @@ Inagens do Projeto:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Link do Surge:
+
 https://molina-food5la.surge.sh
 
 login: adm@gmail.com
+
 senha: 123456
+
 -------------------------------------------------------------------
+
 💻 Tecnologias utilizadas:
+
 -ReactJS;
 
 -API: https://documenter.getpostman.com/view/7549981/SWTEdGtT#3203689e-ea05-466a-8a5a-8ebc6c5f271e ;
@@ -44,7 +49,9 @@ senha: 123456
 ------------------------------------------------------------------
 
 Como baixar/testar o projeto
+
 Você irá precisar instalar o Git, NodeJS + Visual Studio code.
+
 # Versões mínimas ou superiores.
 $ node -v
 v12.19.0
@@ -53,6 +60,7 @@ $ npm -v
 6.14.5
 
 Para configurar, no bash digite os seguinte códigos:
+
 # Clonar o repositório
 $ git clone https://github.com/future4code/molina-labe-food5.git
 
@@ -88,4 +96,7 @@ Desenvolvido por:
 -Sidney Souza .
 
 -------------------------------------------------------------------------------------------------------
+
+                           ![large-logo](https://user-images.githubusercontent.com/83045484/127955456-4e7357f1-3efa-4798-8589-c9ff85d43a5d.png)
+
 
