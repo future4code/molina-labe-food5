@@ -19,6 +19,7 @@ Inagens do Projeto:
 ![image](https://user-images.githubusercontent.com/83045484/127949891-0f7f85be-97f2-473b-8f2a-12259ff6014e.png)
 ![image](https://user-images.githubusercontent.com/83045484/127950291-8af88d90-cd85-48bd-946e-48aef664c894.png)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Link do Surge:
 https://molina-food5la.surge.sh
 
@@ -27,14 +28,15 @@ senha: 123456
 -------------------------------------------------------------------
 💻 Tecnologias utilizadas:
 
--ReactJS
--API: https://documenter.getpostman.com/view/7549981/SWTEdGtT#3203689e-ea05-466a-8a5a-8ebc6c5f271e
--Material-UI
--Styled-components
--Axios
--React-dom-router
--Context
+-ReactJS;
+-API: https://documenter.getpostman.com/view/7549981/SWTEdGtT#3203689e-ea05-466a-8a5a-8ebc6c5f271e ;
+-Material-UI;
+-Styled-components;
+-Axios;
+-React-dom-router;
+-Context;
 ------------------------------------------------------------------
+
 Como baixar/testar o projeto
 Você irá precisar instalar o Git, NodeJS + Visual Studio code.
 # Versões mínimas ou superiores.
