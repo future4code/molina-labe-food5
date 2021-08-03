@@ -27,14 +27,20 @@ login: adm@gmail.com
 senha: 123456
 -------------------------------------------------------------------
 💻 Tecnologias utilizadas:
-
 -ReactJS;
+
 -API: https://documenter.getpostman.com/view/7549981/SWTEdGtT#3203689e-ea05-466a-8a5a-8ebc6c5f271e ;
+
 -Material-UI;
+
 -Styled-components;
+
 -Axios;
+
 -React-dom-router;
+
 -Context;
+
 ------------------------------------------------------------------
 
 Como baixar/testar o projeto
