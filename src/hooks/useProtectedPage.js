@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { useHistory } from "react-router-dom";
-import { goToLogin } from "../routes/coordinator";
+import {goToLogin} from '../routes/coordinator';
 
 export default function useProtectedPage() {
   const history = useHistory();
@@ -9,6 +9,7 @@ export default function useProtectedPage() {
   useEffect(() => {
     if (!token) {
       goToLogin(history);
-    }
+    } 
+
   }, [history, token]);
 }
