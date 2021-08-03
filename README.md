@@ -50,11 +50,17 @@ Agora é só testar em seu navegador!
 --------------------------------------------------------------------------
 
 Desenvolvido por:
-                                          -Carlos Alberto Dutra Azeredo,
-                                          -David Ortiz dos Santos,
-                                          -Jaqueline Lourenço,
-                                          -Pablo Loredo,
-                                          -Samira Amorim Pereira,
-                                          -Sidney Souza .
+
+-Carlos Alberto Dutra Azeredo,
+
+-David Ortiz dos Santos,
+
+-Jaqueline Lourenço,
+
+-Pablo Loredo,
+
+-Samira Amorim Pereira,
+
+-Sidney Souza .
 -------------------------------------------------------------------------------------------------------
 
