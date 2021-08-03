@@ -7,6 +7,15 @@ Projeto final do curso de Frontend da Labenu. A ideia foi desenvolver um aplicat
 https://documenter.getpostman.com/view/7549981/SWTEdGtT#3203689e-ea05-466a-8a5a-8ebc6c5f271e
 
 --------------------------------------------------------------------
+Inagens do Projeto:
+![image](https://user-images.githubusercontent.com/83045484/127949941-81c80c77-0408-4d15-81ca-d77293f30d0f.png)
+![image](https://user-images.githubusercontent.com/83045484/127950004-029000fe-8bf5-44fd-a190-b93d9c10877b.png)
+![image](https://user-images.githubusercontent.com/83045484/127950122-70ca7ee3-3438-421e-8535-d5abf2cfa01d.png)
+![image](https://user-images.githubusercontent.com/83045484/127949808-7ca7d14a-0c89-4e08-9fed-e80a2b0429da.png)
+![image](https://user-images.githubusercontent.com/83045484/127949849-97fcd077-9e62-49d9-b6c1-fbd5e816550b.png)
+![image](https://user-images.githubusercontent.com/83045484/127949878-d09dac7b-5fab-481b-826e-423bfb2600e8.png)
+![image](https://user-images.githubusercontent.com/83045484/127949891-0f7f85be-97f2-473b-8f2a-12259ff6014e.png)
+
 Link do Surge:
 
 -------------------------------------------------------------------
