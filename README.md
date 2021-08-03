@@ -18,7 +18,10 @@ Inagens do Projeto:
 ![image](https://user-images.githubusercontent.com/83045484/127950291-8af88d90-cd85-48bd-946e-48aef664c894.png)
 
 Link do Surge:
+https://molina-food5la.surge.sh
 
+login: adm@gmail.com
+senha: 123456
 -------------------------------------------------------------------
 💻 Tecnologias utilizadas
 ReactJS
