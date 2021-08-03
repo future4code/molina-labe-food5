@@ -51,7 +51,6 @@ export default function Header() {
                          <ArrowBackIosIcon size={24} onClick={() => goBack(history)} />
                     </Route>
                </Bar>
-
                <Bar>
                     <Route exact path={['/entrar', 'cadastrar', '/cadastro/endereco']}>
                          <Title></Title>
