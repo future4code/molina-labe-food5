@@ -97,6 +97,6 @@ Desenvolvido por:
 
 -------------------------------------------------------------------------------------------------------
 
-                           ![large-logo](https://user-images.githubusercontent.com/83045484/127955456-4e7357f1-3efa-4798-8589-c9ff85d43a5d.png)
+   ![large-logo](https://user-images.githubusercontent.com/83045484/127955456-4e7357f1-3efa-4798-8589-c9ff85d43a5d.png)
 
 
