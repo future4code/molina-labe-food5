@@ -1,6 +1,7 @@
    ![medium-logo](https://user-images.githubusercontent.com/83045484/127855023-a343e108-038b-42da-a947-56fe83c22aec.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                          🚀 FutureEats Mobile ✅
+                                         rocket FutureEats Mobile heavy_check_mark
+Status License
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📝 Sobre
 Projeto final do curso de Frontend da Labenu. A ideia foi desenvolver um aplicativo parecido com o UberEats, onde o usuário faz os pedidos, acessa o carrinho de compras, finaliza a compra, altera seus dados e verifica o tempo de espera do pedido. Para o desenvolvimento do projeto, foi utilizada a API 
