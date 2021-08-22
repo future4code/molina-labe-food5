@@ -1,68 +1,104 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+   ![medium-logo](https://user-images.githubusercontent.com/83045484/127855023-a343e108-038b-42da-a947-56fe83c22aec.png)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  🚀 FutureEats Mobile ✅
 
-## Available Scripts
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+📝 Sobre
+Projeto final do curso de Frontend da Labenu. A ideia foi desenvolver um aplicativo parecido com o UberEats, onde o usuário faz os pedidos, acessa o carrinho de compras, finaliza a compra, altera seus dados e verifica o tempo de espera do pedido. Para o desenvolvimento do projeto, foi utilizada a API 
+https://documenter.getpostman.com/view/7549981/SWTEdGtT#3203689e-ea05-466a-8a5a-8ebc6c5f271e
 
-In the project directory, you can run:
+--------------------------------------------------------------------
+Imagens do Projeto:
 
-### `npm start`
+![image](https://user-images.githubusercontent.com/83045484/127949941-81c80c77-0408-4d15-81ca-d77293f30d0f.png)
+![image](https://user-images.githubusercontent.com/83045484/127954387-602a343f-f8a9-497a-ab45-0a3f9d36d36c.png)
+![image](https://user-images.githubusercontent.com/83045484/127954403-e916b651-6357-45d3-8109-0fb88ef0db17.png)
+![image](https://user-images.githubusercontent.com/83045484/127950004-029000fe-8bf5-44fd-a190-b93d9c10877b.png)
+![image](https://user-images.githubusercontent.com/83045484/127950122-70ca7ee3-3438-421e-8535-d5abf2cfa01d.png)
+![image](https://user-images.githubusercontent.com/83045484/127949808-7ca7d14a-0c89-4e08-9fed-e80a2b0429da.png)
+![image](https://user-images.githubusercontent.com/83045484/127949849-97fcd077-9e62-49d9-b6c1-fbd5e816550b.png)
+![image](https://user-images.githubusercontent.com/83045484/127949878-d09dac7b-5fab-481b-826e-423bfb2600e8.png)
+![image](https://user-images.githubusercontent.com/83045484/127949891-0f7f85be-97f2-473b-8f2a-12259ff6014e.png)
+![image](https://user-images.githubusercontent.com/83045484/127950291-8af88d90-cd85-48bd-946e-48aef664c894.png)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Link do Surge:
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+https://molina-labe-food5.surge.sh
 
-### `npm test`
+login: adm@gmail.com
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+senha: 123456
 
-### `npm run build`
+-------------------------------------------------------------------
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+💻 Tecnologias utilizadas:
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+-ReactJS;
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-API: https://documenter.getpostman.com/view/7549981/SWTEdGtT#3203689e-ea05-466a-8a5a-8ebc6c5f271e ;
 
-### `npm run eject`
+-Material-UI;
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+-Styled-components;
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+-Axios;
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+-React-dom-router;
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+-Context;
 
-## Learn More
+------------------------------------------------------------------
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Como baixar/testar o projeto
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Você irá precisar instalar o Git, NodeJS + Visual Studio code.
 
-### Code Splitting
+# Versões mínimas ou superiores.
+$ node -v
+v12.19.0
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+$ npm -v
+6.14.5
 
-### Analyzing the Bundle Size
+Para configurar, no bash digite os seguinte códigos:
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+# Clonar o repositório
+$ git clone https://github.com/future4code/molina-labe-food5.git
 
-### Making a Progressive Web App
+#Entrar no diretório
+$ cd dumont-labe-food
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+#Abrir projeto no VsCode ou com seu prompt de comando de preferência
+code . ||  cd dumont-labe-food (Passo acima) 
 
-### Advanced Configuration
+#Com o terminal aberto rodar o comando
+$ npm install (para instalar as dependências necessárias)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+#Agora só rodar o projeto com o comando
+$ npm start
 
-### Deployment
+#Pronto projeto abrirá em seu navegador padrão
+Agora é só testar em seu navegador!
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+--------------------------------------------------------------------------
 
-### `npm run build` fails to minify
+Desenvolvido por:
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+-Carlos Alberto Dutra Azeredo,
+
+-David Ortiz dos Santos,
+
+-Jaqueline Lourenço,
+
+-Pablo Loredo,
+
+-Samira Amorim Pereira,
+
+-Sidney Souza .
+
+-------------------------------------------------------------------------------------------------------
+
+   ![large-logo](https://user-images.githubusercontent.com/83045484/127955456-4e7357f1-3efa-4798-8589-c9ff85d43a5d.png)
+
+
