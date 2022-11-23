@@ -67,10 +67,10 @@ Para configurar, no bash digite os seguinte códigos:
 $ git clone https://github.com/future4code/molina-labe-food5.git
 
 #Entrar no diretório
-$ cd dumont-labe-food
+$ cd molina-labe-food5
 
 #Abrir projeto no VsCode ou com seu prompt de comando de preferência
-code . ||  cd dumont-labe-food (Passo acima) 
+code . ||  cd molina-labe-food5 (Passo acima) 
 
 #Com o terminal aberto rodar o comando
 $ npm install (para instalar as dependências necessárias)
